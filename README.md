@@ -1,5 +1,9 @@
 # Revenue-Leakage-Profitability-Analysis
 
+## Dashboard Preview
+
+![Dashboard](Screenshots/dashboard_overview.png)
+
 ## Project Overview
 
 This project analyzes retail sales data to identify revenue leakage, profitability trends, and discount impact using MySQL and Power BI.
