@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard_screenshot.png)
+![Dashboard](Screenshot/Dashboard_screenshot.png)
 
 ## Project Overview
 
