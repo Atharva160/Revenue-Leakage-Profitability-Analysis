@@ -66,3 +66,27 @@ The goal was to uncover loss-making products, evaluate regional performance, and
 - Re-evaluate pricing strategy for Tables and Bookcases.
 - Focus marketing efforts on high-profit categories.
 - Expand successful strategies used in the West region.
+
+ ---
+## SQL Analysis Performed
+
+### 1. KPI Analysis
+- Total Sales
+- Total Profit
+- Average Discount %
+- Total Quantity Sold
+
+### 2. Category Profitability Analysis
+- Compared profit across categories
+- Identified most profitable category
+
+### 3. Revenue Leakage Analysis
+- Analyzed sub-categories with low profit
+- Investigated impact of discounts on profitability
+
+### 4. Regional Performance Analysis
+- Compared sales and profit across regions
+- Identified highest-performing region
+
+### 5. Discount Impact Analysis
+- Evaluated relationship between discounts and profit
